@@ -8,7 +8,6 @@ class Header extends React.Component {
         let nav = this.props.nav;
         return (
             <header>
-                <div className="top-bar animate-dropdown"/>
                 <div className="main-header">
                     <div className="container">
                         <h1 className="site-title">Курс валют</h1>
